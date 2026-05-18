@@ -1,4 +1,4 @@
 export const Input =()=>{
 
-    return <input>Input</input>
+    return <input/>
 }
